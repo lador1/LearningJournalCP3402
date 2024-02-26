@@ -1,40 +1,30 @@
-# Journal Entry - Week 3
+# Journal Entry - Week 4
 
 ## Learning Activities & Resources
 - **Learning Resources used:** 
-  - [LinkedInLearning](https://www.linkedin.com/learning/search?keywords=wordpress%20permissions&u=2223545)
-  - [Youtube](https://www.youtube.com/watch?v=AABmCvjd_iU)
+[Github](https://github.com/CP3402/subject/wiki/Resources)
+[Youtube](https://www.youtube.com/watch?v=gEceSAJI_3s&t=783s)- Use if trouble installing
+- Need to research for Joomla, similar process but terminal path error. See - [Youtube](https://www.youtube.com/watch?v=L55d51ti-fE)
   
 
 ## Estimated Hours
-- 3 hours of LinkedInLearning
-- 30 minutes Youtube
+-Around 4 hours
 
-## Content Insights - WordPress
+## Content Insights 
+- Localhosting allows for the editing of CMS without an internet connection and seemed to perform better compared to remote servers. It also offered more customization of the environment including during setup and for server configuration. To setup local hosting, docker was used as Vagrant was harder to implement and Virtual Box software was not as nice as the desktop docker. The documentation provided on [GitHub](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/wordpress/) was useful.
 
-- Following a structured workflow rather than viewing individual videos for certain topics -
-I felt more efficient and also remembered more. This was recommended by the LinkedIn video.
+-Local hosting enhances plugin use such as FG Joomla to wordpress to copy a joomla site identically into wordpress (this deleted my wordpress by accident and didnt work). Once Joomla has been succesfully hosted locally like wordpressm this is expected to work better. Futhermore third party plugins are not available through the WordPress.com platform, self hosted wordpress has no limitations.
 
-- Gained insights into commerce with WordPress -  payment integration for a product or service and performance monitoring through plug ins or wordpress built in site health and security tracker.
-
-- Understand how user roles and permission can be implemented - Vinovate will utilize.
-
-- Different use of themes was refreshing and made site editing safer and easier to see what I was doing - less overwhelming than changing whole themes, allowed me to incoorporate multiple themes and keep code that I liked if I wanted to change it back.
-
-
-## Content Insights - Group Interviews 
-- I noticed that I was more experienced than others when we were doing mock Job interviews.
-- Some individuals did not know how to react when asked a question they could not answer
-- Some interviewees rioritize people who complete more work, others prefer those who present themselves better like being on time or enthusiasm towards a project, communication and collaboration.
-- Similar personalities and skill sets can actually negatively impact the harmony of a group - and diverse teams may be beneficial depending on the task.
 
 ## Career/Employability/Learning Insights
 - **Career:** 
-My learning of commerce integration and advanced site control / administration are important insights which I will utilise when attempting to create an online/startup company and can also be useful for pursueing website development. 
+- My understanding of localhosting has improved (Still struggling to host Joomla). But I now understand the importance of localhosting and workflow, how localhosting is essential in professional website development. I will be using this whenever I create new websites in the future.
+
 
 - **Employability:** 
-A basic wordpress knowledge is expected by employers, I believe that I demonstrate proficiency in WordPress and other CMS. I have shown adaptability when I work between sites and make similar websites on different CMS, also, I'm starting to utilise advanced tools like plugins and commerce -this makes me attractive to employers seeking website developers and even individuals such as those wanting a website for a business etc.
+- Localhosting/ Deployment is essential practice in professional website development to ensure quality and security of code and proper workflow practices. Fine tuning my skills will make me appealing to future employers.
 
-- **Learning insights:** 
--   Functionality of wordpress is significantly better than Joomla CMS and much easier and user friendly experience. Learning how to use certain features such as changing fonts themes and uploading media was easier to do.
-- I relearnt important things to do during an interview process and learnt about things that I do and dont want in my group members that I had not considered previously.
+
+- **Learning insights:**
+- I have learnt that local hosting is the best way to develop a website before publishing or staging futher changes. I have learnt the basics of deployment and version control integration with systems like git.
+
