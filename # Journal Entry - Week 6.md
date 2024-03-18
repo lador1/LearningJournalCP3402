@@ -1,11 +1,11 @@
 # Journal Entry - Week 5
 
 ## Learning Activities & Resources
-[Discord](https://discord.gg/PCUe79fd) 
-[Slack](https://itatjcu.slack.com/archives/G0PDNKCH3)
-[LinkedIn](www.linkedin.com/in/luca-adornetto-23303b2b2)
-[Trello](https://trello.com/b/bcCPF1NG/cms-team-7)
-[GithubRepository](https://github.com/cp3402-students/project-team7/blob/main/contributor.txt)
+- [Discord](https://discord.gg/PCUe79fd) 
+- [Slack](https://itatjcu.slack.com/archives/G0PDNKCH3)
+- [LinkedIn](www.linkedin.com/in/luca-adornetto-23303b2b2)
+- [Trello](https://trello.com/b/bcCPF1NG/cms-team-7)
+- [GithubRepository](https://github.com/cp3402-students/project-team7/blob/main/contributor.txt)
 
 
 ## Estimated Hours
@@ -18,7 +18,7 @@ This weeks learning activities were very self directed in terms of professional 
 
 ## Career/Employability/Learning Insights
 **Career:** 
--Fine tuning my LinkedIn provided valuable opportunities for my professional network. I started getting recommendations on potential career paths ahd I have seen recommendations for interesting jobs as a result of networking and researching skills.
+- Fine tuning my LinkedIn provided valuable opportunities for my professional network. I started getting recommendations on potential career paths ahd I have seen recommendations for interesting jobs as a result of networking and researching skills.
 
  
 
