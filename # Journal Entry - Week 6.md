@@ -4,7 +4,7 @@
 [Discord](https://discord.gg/PCUe79fd) 
 [Slack](https://itatjcu.slack.com/archives/G0PDNKCH3)
 [LinkedIn](www.linkedin.com/in/luca-adornetto-23303b2b2)
-[Trello] (https://trello.com/b/bcCPF1NG/cms-team-7)
+[Trello](https://trello.com/b/bcCPF1NG/cms-team-7)
 [GithubRepository](https://github.com/cp3402-students/project-team7/blob/main/contributor.txt)
 
 
