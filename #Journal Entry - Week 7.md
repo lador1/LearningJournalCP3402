@@ -10,7 +10,7 @@
 ## Content Insights 
 I learnt the following:
 
-- How to Echo HTML for outputting ontent on web pages. In the Supercars website, echoing HTML allows us to display dynamic information such as car details, rental prices, and confirmation messages.
+- How to Echo HTML for outputting ontent on web pages. In the Supercars website, echoing HTML allows me to display dynamic information such as car details, rental prices, and confirmation messages.
 
 - How to implement decision statements. They are Extremely useful in php, in the Supercars website, if/else statements are used to display different content based on the selected car, or show error messages if no valid car is selected, work with variables.
 
